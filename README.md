@@ -1,4 +1,4 @@
-# twill-acl-manager
+# twilio-acl-manager
 
 This AWS Lambda node.js script monitors the IP address that your SIP domain name resolves to and if the IP does not match what's configured in your Twilio IP Address ACL, it will update the Twilio configs.
 

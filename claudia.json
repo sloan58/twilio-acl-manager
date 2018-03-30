@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "twilio-acl-manager-executor",
+    "name": "twilio-acl-manager",
+    "region": "us-east-1"
+  }
+}
